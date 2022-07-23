@@ -1,7 +1,8 @@
-#Los requisitos para poder ejecutar el proyecto:
-a. PHP Versión 7 o superior. PHP 7.4.29
-b. Versión base de datos (MariaDB o Mysql). Xampp V3.3.0
-• Instructivo para compilar el proyecto.
+# requisitos
+Los requisitos para poder ejecutar el proyecto:
+### a. PHP Versión 7 o superior. PHP 7.4.29
+### b. Versión base de datos (MariaDB o Mysql). Xampp V3.3.0
+# Instructivo para compilar el proyecto.
 
 ###
 clonar proyecto en C:\xampp\htdocs
