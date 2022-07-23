@@ -13,3 +13,5 @@ cd config/database.php
 crear base de datos intelcost_bienes e importar en cd db/intelcost_bienes.sql
 
 Patrón de diseñor MVC en Php PURO basado en la arquitectura del framework codenater
+
+http://localhost/MvcBackEnd/index.php
