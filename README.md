@@ -1,6 +1,5 @@
-# suplosBackEnd
 
-Prueba suplos desarrollador backend
+
 
 #Los requisitos para poder ejecutar el proyecto:
 a. PHP Versión 7 o superior. PHP 7.4.29
